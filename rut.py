@@ -14,3 +14,6 @@ def rutChequeo(rut):
             return False
     else:
         return False
+    
+## > print(rutChequeo("178919083"))
+## > True
