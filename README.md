@@ -1,1 +1,3 @@
-"# PythonLearning" 
+- PythonLearning
+  * Verificador rut
+  * Formatear lista
